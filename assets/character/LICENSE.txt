@@ -1,0 +1,2 @@
+person.glb: "Man in Long Sleeves" from the Animated Men Pack by Quaternius (https://quaternius.com), CC0 1.0 (public domain).
+Source: https://poly.pizza/m/DLptRuewTn  Animations used: HumanArmature|Man_Idle, Man_Walk, Man_Run.
